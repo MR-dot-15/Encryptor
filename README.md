@@ -5,7 +5,7 @@ Program capable of encrypting texts into png files, and decrypting them back.
 
 ### Intention
 
-Having an easy to use encrytor, developing (and modifying) which would be just enough to finish a cup of coffee.
+Having an easy to use encryptor, time-taken to develop (and modifying) which would be just enough to finish a cup of coffee.
 
 ### How to use 
 
@@ -19,7 +19,7 @@ Having an easy to use encrytor, developing (and modifying) which would be just e
 
 ### Bug
 
-You'll have an idea about it immediately after the first decryption. It's not gonna much, I'm too lazy now to fix it. 
+You'll have an idea about it immediately after the first decryption. It's not gonna bother much, I'm too lazy now to fix it. 
 
 ### Module dependency:
 
