@@ -7,9 +7,8 @@ st = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 baselist = list(st + st.lower() + '1234567890.,:;/?!@^()+-_\"\'' + ' ' + '\n')
 key = 0
 
+
 # determining appropriate shape for the output image
-
-
 def find_shape(num):
     xy = num // 3 + 1
     return int(xy**0.5) + 1
@@ -35,11 +34,10 @@ def encrypt(fn1, fn2, k):
     img = Img.fromarray(img_arr)
     img.save(fn2)
 
+    
 # extracting array from picture
 # reshaping into an utilizable shape
 # key autoselcted, if not blah blah
-
-
 def decrypt(fn1, k):
     img = Img.open(fn1)
     data = np.asarray(img)
