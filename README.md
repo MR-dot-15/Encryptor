@@ -18,4 +18,10 @@ Having an easy to use encrytor, developing (and modifying) which would be just e
 * **Role of 'Key':** Does some XOR stuff. The default setting is easy to use (but, obviously, less 'secured'). 
 
 ### Bug
+
 You'll have an idea about it immediately after the first decryption. It's not gonna much, I'm too lazy now to fix it. 
+
+### Module dependency:
+
+* Os, Sys
+* Numpy, Pillow
