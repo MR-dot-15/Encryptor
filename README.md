@@ -10,8 +10,8 @@ Having an easy to use encrytor, developing (and modifying) which would be just e
 ### How to use 
 
 * The easiest way is to download the exe one (packed using Pyinstaller), and to run it. No intented malware included.
-* Execute them directly/ with cmd.
-* 1. While encrypting the text file, which will be encrypted, and the exe need to inside the same folder. 
+* Execute directly/ with cmd.
+* 1. While encrypting, the text file (which will be encrypted) and the exe need to inside the same folder. 
   2. Input will be the text file name, **without the .txt part**.
   3. Output will be a png, the program will take its name as input (again, **without .png**).
 * While decrypting, the being-in-the-same-folder condition needs to be satisfied. Output will get printed on cmd.
